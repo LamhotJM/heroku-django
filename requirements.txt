@@ -1,4 +1,4 @@
-Django==1.8.4
+Django==1.11.29
 setuptools
 Markdown==2.6
 PyYAML==3.11
