@@ -1,7 +1,7 @@
 Django==1.11.29
 setuptools
 Markdown==2.6
-PyYAML==3.11
+PyYAML==5.1
 argparse==1.2.1
 decorator==4.0.4
 dj-database-url==0.3.0
